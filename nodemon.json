@@ -1,0 +1,7 @@
+{
+    "ignore": [
+        ".git/",
+        "node-modules/"
+    ],
+    "ext": "js,json,css,html"
+}
